@@ -404,7 +404,7 @@ WHERE rank_order <= 3;
 
 ## 📽️ Presentation
 
-🔗 [View Full Presentation](Business Presentation.pdf)
+🔗 [View Full Presentation](https://github.com/addityaa95/SQL-Project-on-Consumer-Goods/blob/main/Business%20Presentation.pdf)
 🔗 [View Power BI Presentation](Resume_projects_10_Adhoc_request.pbix)
 
 ---
