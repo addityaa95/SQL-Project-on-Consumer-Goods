@@ -52,7 +52,7 @@ Their product portfolio spans 6 segments:
 Rapid regional expansion and increasing transaction volumes made it difficult for management to derive timely, data-driven insights. To address this, the company planned to build a dedicated data analytics team. A structured SQL challenge was introduced to identify candidates with both strong technical skills and effective business communication ability.
 
 Project Link : [Codebasics Resume Project Challenge #7](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)
-Documentaions : [10 Adhoc request](https://github.com/addityaa95/SQL-Project-on-Consumer-Goods/blob/main/ad-hoc-requests.pdf)
+Documentaions : [10 Adhoc request](ad-hoc-requests.pdf)
 ---
 
 ## 🗄️ Database Schema
@@ -404,8 +404,8 @@ WHERE rank_order <= 3;
 
 ## 📽️ Presentation
 
-🔗 [View Full Presentation](https://github.com/addityaa95/SQL-Project-on-Consumer-Goods/blob/main/Business%20Development.pdf)
-🔗 [View Power BI Presentation](https://github.com/addityaa95/SQL-Project-on-Consumer-Goods/blob/main/Resume_projects_10_Adhoc_request.pbix)
+🔗 [View Full Presentation](Business Presentation.pdf)
+🔗 [View Power BI Presentation](Resume_projects_10_Adhoc_request.pbix)
 
 ---
 
